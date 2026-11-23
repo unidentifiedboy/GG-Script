@@ -1,1 +1,1 @@
-gg.alert("BypassV2")
+gg.alert("V2")
