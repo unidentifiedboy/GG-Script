@@ -1,1 +1,1 @@
-gg.alert("v1")
+gg.alert("v2")
