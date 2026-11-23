@@ -1,1 +1,1 @@
-gg.alert("Bypass test")
+gg.alert("Bypass")
